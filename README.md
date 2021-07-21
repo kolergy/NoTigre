@@ -18,3 +18,5 @@ Notre but est aussi de tester ce piege afin de valider sa performance.
 Le design qui est disponible ici les mremier prototype qui n'as pas encore ete assemblé nous avons juste comencé a imprimer les pieces dessinées par Ghost.
 Cette page sera mise a jour au fur a mesure des progres.
  
+
+![Impression de la base](https://github.com/kolergy/NoTigre/blob/master/Support.jpg)
